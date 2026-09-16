@@ -1,31 +1,37 @@
 # Olá, eu sou Celso Batista 👋
 
-### Tecnólogo em Análise e Desenvolvimento de Sistemas | Análise de Sistemas e Dados
+### Tecnólogo em Análise e Desenvolvimento de Sistemas | Profissional de Tecnologia
 
-Tecnólogo em Análise e Desenvolvimento de Sistemas pelo Centro Universitário Facens, em transição de carreira para Tecnologia.
+Sou Tecnólogo em Análise e Desenvolvimento de Sistemas pelo Centro Universitário Facens e estou construindo minha carreira na área de Tecnologia.
 
-Minha trajetória profissional foi construída ao longo de décadas de trabalho, empreendedorismo, atendimento a clientes, gestão operacional e resolução de problemas. Essa experiência me proporcionou uma visão prática de processos, necessidades de negócio e tomada de decisões.
+Minha trajetória profissional inclui experiência com empreendedorismo, atendimento a clientes, gestão de equipe, processos, negociação e resolução de problemas. Essa experiência contribui para uma visão prática de negócio e compreensão das necessidades dos usuários.
 
-Atualmente, venho desenvolvendo projetos práticos e aprofundando meus conhecimentos em análise de sistemas, dados, desenvolvimento de software e Inteligência Artificial.
+Durante minha formação em ADS, participei e desenvolvi projetos web, mobile e conceituais, envolvendo levantamento de requisitos, regras de negócio, banco de dados e desenvolvimento de software.
+
+Atualmente, participo do programa **Dev. Full Stack Jr. (+praTi & Codifica)**, ampliando meus conhecimentos e experiência prática em desenvolvimento de software e trabalho colaborativo.
 
 ## 🎯 Áreas de interesse
 
-- Análise de Sistemas
-- Análise de Dados
+- Tecnologia da Informação
 - Desenvolvimento de Software
+- Análise de Sistemas
+- Dados
+- Desenvolvimento Web e Mobile
 
 ## 🛠️ Tecnologias e conhecimentos
 
-- SQL
-- Python
 - JavaScript
+- Python
+- SQL
 - HTML
 - CSS
+- React
 - Flutter
 - Dart
 - Firebase
 - Git
 - GitHub
+- Banco de Dados
 - Modelagem de Dados
 - Levantamento de Requisitos
 - Regras de Negócio
@@ -34,25 +40,35 @@ Atualmente, venho desenvolvendo projetos práticos e aprofundando meus conhecime
 
 ### KeroPro
 
-Marketplace de serviços sob demanda, desenvolvido com foco em regras de negócio, geolocalização, disponibilidade de profissionais e integração com banco de dados.
+Marketplace de serviços sob demanda, desenvolvido inicialmente durante a formação em ADS e posteriormente evoluído no programa +praTi.
 
-**Tecnologias:** Flutter, Dart, Firebase, Google Maps API, Git e GitHub.
+O projeto envolve requisitos, regras de negócio, usuários, disponibilidade de profissionais, solicitações de serviços, geolocalização e banco de dados.
+
+**Tecnologias da versão atual:** Java, Spring Boot, MySQL e desenvolvimento web.
 
 ### CelsoGames
 
-Plataforma web de jogos desenvolvida durante minha formação em ADS, utilizando HTML, CSS e JavaScript.
+Plataforma web desenvolvida individualmente durante minha formação em ADS, voltada à exploração de jogos por categorias e cadastro de usuários.
+
+**Tecnologias:** HTML, CSS e JavaScript.
 
 ### Reino Defense
 
-Projeto individual de jogo 2D desenvolvido com Flutter, Flame Engine e Dart.
+Jogo 2D no estilo Tower Defense, desenvolvido individualmente como projeto pessoal para prática de programação e desenvolvimento de jogos.
+
+**Tecnologias:** Flutter, Dart e Flame Engine.
 
 ### CelsoFlix
 
-Aplicação web responsiva desenvolvida individualmente durante minha formação em ADS.
+Aplicação web responsiva desenvolvida individualmente durante minha formação em ADS, com foco em interface, responsividade e interações.
+
+**Tecnologias:** HTML, CSS, JavaScript e React.
 
 ## 📚 Atualmente
 
-Continuo aprimorando meus conhecimentos em programação, análise de sistemas, dados e Inteligência Artificial, desenvolvendo projetos práticos e buscando minha oportunidade profissional na área de Tecnologia.
+Continuo desenvolvendo minhas competências em Tecnologia por meio de projetos práticos, formação complementar e aprendizado contínuo.
+
+Atualmente, participo do **Dev. Full Stack Jr. (+praTi & Codifica)** e sigo aprofundando meus conhecimentos em desenvolvimento de software, dados e Inteligência Artificial.
 
 ## 🔗 Links
 
